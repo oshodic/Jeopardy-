@@ -14,8 +14,8 @@ table {
 td {
   border: 3px solid black;
   overflow:hidden;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   color: yellow;
   text-align: center;
   margin-left: auto;
